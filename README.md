@@ -48,10 +48,7 @@ This project applies NLP techniques to analyze 23,486 women's clothing reviews. 
 # 1. Clone the repository
 git clone https://github.com/ReiZaimi/data_analysis_report_ReiZaimi
 
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Open the notebook
+# 2. Open the notebook
 jupyter notebook "Data Analysis.ipynb"
 ```
 
