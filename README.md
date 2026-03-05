@@ -20,7 +20,6 @@ This project applies NLP techniques to analyze 23,486 women's clothing reviews. 
 ```
 ├── Data Analysis.ipynb   # Main notebook with full analysis
 ├── raw_reviews.csv       # Dataset
-├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
 
